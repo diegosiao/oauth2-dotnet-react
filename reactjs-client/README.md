@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## OpenAth2
 
 - ClientID: 0oa55xx5dnCxRzOyX5d7
-- ClientSecret: jHKniCC_Jr2kEXhhsR3uGorBcJcqvfgZgm5zNn4h
+- ClientSecret: --
 - PKCE online tool: https://example-app.com/pkce
     > Code verifier: 8f3990ec07ca560e4b107638d17866086a59a12ce1cd9a6d62b2ce38
     > base64urlencode(sha256(input)): AVkhBUqFYQD767JgGsKl6eJIOA6dzd9MNXILg7Xu-Ww
