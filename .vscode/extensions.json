@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "humao.rest-client",
+        "ms-dotnettools.vscode-dotnet-pack",
+        "burkeholland.simple-react-snippets",
+        "jawandarajbir.react-vscode-extension-pack"
+    ]
+}
